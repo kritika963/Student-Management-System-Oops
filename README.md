@@ -25,4 +25,4 @@ A menu-driven Student Management System using CPP and OOPS.
 
 - C++
 - VS Code
-- macOS
+- Git & GitHub
